@@ -35,7 +35,8 @@ let h_q =
 ['の','no'],
 ['にゃ','nya'],
 ['にゅ','nyu'],
-['にょ','nyo']
+['にょ','nyo'],
+['が','ga']
 ];
 let error_list=[]//errors that will be displayed in game over screen 
 let choice=""; // answer choosen by the user 
